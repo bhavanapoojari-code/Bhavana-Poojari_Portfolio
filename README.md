@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Bhavana Poojari
 
-<img src="assets/portfolio_profile image.jpeg" alt="Bhavana Poojari" width="150" height="150" style="border-radius: 50%;">
+<img src="assets/portfolio_profile image.jpeg" alt="Bhavana Poojari" width="150" height="150";">
 
 🎓 Data Engineer at **Toyota Motor North America**  
 📍 Based in **Irving, Texas, USA**  
